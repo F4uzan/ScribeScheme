@@ -21,8 +21,8 @@
 	<style name="text" foreground="text_fg" background="text_bg"/>
 	<style name="cursor" foreground="error_color"/>
 	<style name="current-line" background="line_highlight"/>
-	<style name="line-numbers" foreground="text_bg" background="keyword_color"/>
-	<style name="selection" foreground="text_fg" background="keyword_color"/>
+	<style name="line-numbers" foreground="comment_color" background="line_highlight"/>
+	<style name="selection" foreground="keyword_color" background="line_highlight"/>
 
 <!-- Bracket Matching -->
 	<style name="bracket-match" foreground="text_bg" background="keyword_color"/>
