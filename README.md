@@ -1,5 +1,5 @@
 ## Scribes Colour Schemes
-Additional colour schemes for the ![Scribes Text Editor](http://scribes.sourceforge.net/index.html). These are all generated using the handy ![Scribes Theme Generator](http://scribes.sourceforge.net/themegenerator.php).
+Additional colour schemes for the [Scribes Text Editor](http://scribes.sourceforge.net/index.html). These are all generated using the handy [Scribes Theme Generator](http://scribes.sourceforge.net/themegenerator.php).
 
 To use, simply load them in the Theme Selector. These should immediately work after you've added them.
 
